@@ -7,6 +7,7 @@
 <h3> Qompass AI on Nuxt </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nuxtjs)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/nuxtjs/total?style=flat-square)
   <a href="https://nuxt.com/">
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
 </a>
